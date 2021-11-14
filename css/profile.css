@@ -1,0 +1,121 @@
+.dropdown-menu {
+   width:400px;
+   max-height:500px;
+   overflow:auto; 
+}
+
+.abc{
+    max-height:250px; 
+}
+
+.cardA{
+   height:245px;
+}
+
+ .req{
+     max-height:300px;
+ }
+ 
+ .gmbr2{
+     object-fit: cover;
+ }
+ 
+ .butrec{
+  background-color: blue;
+  width:146px;
+  height:146px;
+  display: block; margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 100%;
+ }
+ 
+.scrolled-vo{
+   width:100%;
+   max-height:300px;
+   overflow:auto; 
+} 
+.ovr-flow{
+   max-height:1200px;
+   overflow:auto; 
+} 
+ 
+ /*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+
+/*.progress {*/
+/*  width: 150px;*/
+/*  height: 150px;*/
+/*  background: none;*/
+/*  position: relative;*/
+/*}*/
+
+/*.progress::after {*/
+/*  content: "";*/
+/*  width: 100%;*/
+/*  height: 100%;*/
+/*  border-radius: 50%;*/
+/*  border: 6px solid #eee;*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  left: 0;*/
+/*}*/
+
+/*.progress>span {*/
+/*  width: 50%;*/
+/*  height: 100%;*/
+/*  overflow: hidden;*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  z-index: 1;*/
+/*}*/
+
+/*.progress .progress-left {*/
+/*  left: 0;*/
+/*}*/
+
+/*.progress .progress-bar {*/
+/*  width: 100%;*/
+/*  height: 100%;*/
+/*  background: none;*/
+/*  border-width: 6px;*/
+/*  border-style: solid;*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*}*/
+
+/*.progress .progress-left .progress-bar {*/
+/*  left: 100%;*/
+/*  border-top-right-radius: 80px;*/
+/*  border-bottom-right-radius: 80px;*/
+/*  border-left: 0;*/
+/*  -webkit-transform-origin: center left;*/
+/*  transform-origin: center left;*/
+/*}*/
+
+/*.progress .progress-right {*/
+/*  right: 0;*/
+/*}*/
+
+/*.progress .progress-right .progress-bar {*/
+/*  left: -100%;*/
+/*  border-top-left-radius: 80px;*/
+/*  border-bottom-left-radius: 80px;*/
+/*  border-right: 0;*/
+/*  -webkit-transform-origin: center right;*/
+/*  transform-origin: center right;*/
+/*}*/
+
+/*.progress .progress-value {*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  left: 0;*/
+/*}*/
+
+

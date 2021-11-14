@@ -1,0 +1,21 @@
+body{
+   /*background-image: url("https://www.englishjet.net/img/ing 2.png");*/
+   background-color: white;
+   background-position: right top;
+   background-size:50%;
+   padding-right:0;
+   background-repeat: no-repeat;
+}
+
+#gbr{
+    width: 500px;
+    height: 200px;
+    object-fit: cover;
+    position: relative;
+    /*top:0px;*/
+    /*left:0px;*/
+    /*padding-top:0px;*/
+}
+.card{
+    background-color:rgb(220, 222, 221);
+}
